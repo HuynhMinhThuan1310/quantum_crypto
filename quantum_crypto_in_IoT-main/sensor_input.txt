@@ -1,0 +1,7 @@
+{
+    "temperature": 12.23,
+    "humidity": 65.34,
+    "dust": 237.33,
+    "smoke": 948.43,
+    "eve_check": false
+}
